@@ -1,0 +1,15 @@
+package com.dinesh;
+public class Main {
+public static void main ( String[] args) {
+int a=0,b=1,c,i,num=7;
+System.out.print(a+" "+b);
+for(i=2;i<count;i++)
+{
+c=a+b;
+System.out.print(" "+c);
+a=b;
+b=c;
+System.out.print("\nsum of Fibonacci series"+c+i);
+}
+}
+}
